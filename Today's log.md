@@ -261,3 +261,14 @@ Done: 중고 거래(8건) 완료
 Progress: 입사 준비, commit 자동화, 이사 준비
 
 To do: 남은 거래 완료, commit 자동화, 스터디
+
+
+
+2020.01.27
+
+Done: 중고 거래(1건) 완료, 짐 정리, 스터디
+
+Progress: 입사 준비, commit 자동화, 이사 준비
+
+To do: commit 자동화, 물건 확인, 약속
+
