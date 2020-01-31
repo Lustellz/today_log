@@ -301,3 +301,13 @@ Done: 옷 구멍 기우기, 짐 정리
 Progress: 짐 분류, 짐 확인, 부피 감소
 
 To do: commit 자동화, 짐 싣기, nodejs 공부
+
+
+
+# 2020.01.31
+
+Done: 짐 정리, 짐 분류, 짐 확인, 짐 싣기
+
+Progress: nodejs 공부
+
+To do: 청소, commit 자동화, nodejs 공부, 알고리즘 스터디
