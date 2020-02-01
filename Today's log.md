@@ -311,3 +311,13 @@ Done: 짐 정리, 짐 분류, 짐 확인, 짐 싣기
 Progress: nodejs 공부
 
 To do: 청소, commit 자동화, nodejs 공부, 알고리즘 스터디
+
+
+
+# 2020.02.01
+
+Done: 이사, 알고리즘 스터디
+
+Progress: 짐 정리, 청소, commit 자동화, nodejs 공부
+
+To do: 짐 정리, 청소, commit 자동화, nodejs 공부
