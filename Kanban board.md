@@ -11,3 +11,11 @@ Tomorrow's To do: 부업, google analytics 개요 작성, 업무 파악
 
 
 ## 2020.02.10
+
+Today's Done: 침대  보수, 설거지
+
+In Progress: 인수인계, 업무 파악, 개발 환경 설정
+
+Tomorrow's To do: 부업, 커튼봉 새로 달기, google analytics 개요 작성, 업무 파악 및 정리
+
+달성률: 20%
