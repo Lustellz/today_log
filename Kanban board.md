@@ -43,3 +43,15 @@ In Progress: google analytics 세미나 개요 작성, 평가 프로젝트 기�
 Tomorrow's To do: google analytics 개요 작성, 업무 파악 및 정리, 평가 프로젝트 기획서 작성, 먼지 청소(아침), 6시 기상, 설거지, 빨래
 
 달성률: 70%
+
+
+
+## 2020.02.13
+
+Today's Done: 먼지 청소, 설거지, 인수인계 확인, 6시 기상, 5시 기상, 생활용품 정리, 빨래, 종량제 봉투 구매, 버스 예매, 세미나 일정 예약, 소지품 적재
+
+In Progress: google analytics 세미나 발표 자료 준비, 프로젝트 기획서 작성
+
+Tomorrow's To do: 업무 파악 및 정리, google analytics 시연 프로젝트 준비, 미용실 예약, 6시 기상, 설거지, 전기 차단, 귀향
+
+달성률: 60%
