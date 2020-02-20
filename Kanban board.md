@@ -79,3 +79,29 @@ In Progress: google analytics 세미나 발표 자료 준비, 메일 서버 프�
 Tomorrow's To do: google analytics 시연 프로젝트 작성, 발표 PPT 제작, 보고 메일 서버 프로젝트 프로토타입 제작, 상경
 
 달성률: 70%
+
+
+
+## 2020.02.18
+
+Today's Done: Google Cloud SDK 설치 및 빌드 준비
+
+In Progress: google analytics 세미나 발표 준비(analytics demo app 배포), 메일 서버 프로젝트 빌드
+
+Tomorrow's To do: 세미나 준비, 발기인 제출
+
+
+
+## 2020.02.19
+
+Today's Done:  Firebase Analytics 세미나 빌드 불가 사유 파악
+
+In Progress: google analytics 세미나 발표 준비, 메일 서버 프로젝트 빌드
+
+Tomorrow's To do: 세미나 준비, 당원 등록
+
+
+
+## 2020.02.20
+
+Today's Done: 
