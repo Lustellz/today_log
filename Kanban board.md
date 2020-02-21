@@ -104,4 +104,8 @@ Tomorrow's To do: 세미나 준비, 당원 등록
 
 ## 2020.02.20
 
-Today's Done: 
+Today's Done: google analytics 세미나, 휴식
+
+In Progress: None
+
+Tomorrow's To do: 병원 방문(2군데), 
