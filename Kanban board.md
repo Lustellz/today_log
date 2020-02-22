@@ -104,8 +104,23 @@ Tomorrow's To do: 세미나 준비, 당원 등록
 
 ## 2020.02.20
 
-Today's Done: google analytics 세미나, 휴식
+Today's Done: google analytics 세미나 준비, 빨래, 설거지, 운동
 
-In Progress: None
+In Progress: 선언문 번역
 
-Tomorrow's To do: 병원 방문(2군데), 
+Tomorrow's To do: 
+
+
+
+## 2020.02.21
+
+Today's Done: google analytics 세미나
+
+In Progress: 이벤트 페이지 기획
+
+Tomorrow's To do: 병원 방문(2군데), JAVA 스터디, 이벤트 페이지 기획 및 빌드 준비, 생활 팁 및 알림판 정리, 청소, commit 자동화, 온라인 강의 수강
+
+
+
+2020.02.22
+
