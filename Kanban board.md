@@ -122,5 +122,10 @@ Tomorrow's To do: 병원 방문(2군데), JAVA 스터디, 이벤트 페이지 �
 
 
 
-2020.02.22
+## 2020.02.22
 
+Today's Done: JAVA 온라인 스터디
+
+In Progress: 이벤트 페이지 기획
+
+Tomorrow's To do: 이벤트 페이지 기획 및 빌드 준비, 회사 앱 및 웹페이지 프레임워크 및 환경 확인, commit 자동화, 온라인 강의 수강
