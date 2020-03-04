@@ -163,3 +163,27 @@ In Progress: 부업2, 빨래, 청소
 Tomorrow's Todo: 일정 정리, 예산 계획, 자동이체 등록, JSP 공부, 스터디, 화장실 청소
 
 달성률: 50%
+
+
+
+## 2020.03.02
+
+Today's Done: 부업2, 빨래, 장 보기, API 구조 파악
+
+In Progress: 청소, 프레임워크 공부
+
+Tomorrow's Todo: 일정 정리, 예산 계획, JSP 공부, 청소
+
+달성률: 60%
+
+
+
+## 2020.03.04
+
+Today's Done: 빨래, 프로젝트 빌드 및 View page 작성
+
+In Progress: 청소, 프레임워크 공부
+
+Tomorrow's Todo: 부업, JSP 공부, 청소, 프레임워크 공부
+
+달성률: 30%
