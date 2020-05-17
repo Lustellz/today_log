@@ -19,3 +19,9 @@
 # 2020.03.22
 
 Maven clean, generate-sources, install 하는 과정 중에서 clean에 스키마를 불러오는 주소가 바뀔 수가 있다...? 왜지? (properties를 확인해 봐야겠음)
+
+
+
+# 2020.05.17
+
+div style에 float 함부로 쓰면 안된다... embed 요소도 같이 망가질 수 있다.
