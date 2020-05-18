@@ -220,4 +220,9 @@ Gradle 기초: https://effectivesquid.tistory.com/entry/Gradle-%EB%B9%8C%EB%93%9
 
 # 2020.05.17
 
-div style에 float는 함부로 쓰면 안된다... embed 요소가 찌그러질 수도 있다...
+div style에 float는 함부로 쓰면 안된다... embed 요소가 찌그러질 수도 있다... <- 높이 지정 따로 다 해주기.
+
+
+# 2020.05.18
+
+java에서 filereader는 인코딩 설정이 따로 불가해서 inputstreamreader로 읽어야 한다.
