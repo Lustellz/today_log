@@ -226,3 +226,52 @@ div style에 float는 함부로 쓰면 안된다... embed 요소가 찌그러질
 # 2020.05.18
 
 java에서 filereader는 인코딩 설정이 따로 불가해서 inputstreamreader로 읽어야 한다.
+
+
+# 2020.05.20
+java 인코딩 설정해서 파일 읽어오기: https://shineware.tistory.com/entry/%EC%9E%90%EB%B0%94-%EC%9D%B8%EC%BD%94%EB%94%A9%EC%97%90-%EB%94%B0%EB%A5%B8-%ED%8C%8C%EC%9D%BC%EC%9E%85%EC%B6%9C%EB%A0%A5
+
+```java
+import java.io.BufferedReader;
+
+import java.io.File;
+
+import java.io.FileInputStream;
+
+import java.io.FileNotFoundException;
+
+import java.io.InputStreamReader;
+
+public class ConvertTester {
+
+       /**
+
+        * @param args
+
+        * @throws FileNotFoundException
+
+        * @throws Exception
+
+        */
+
+       public static void main(String[] args) throws FileNotFoundException, Exception {
+
+             String src = "www.com.001";
+
+             File file = new File(src); 
+
+             BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(file), "EUC-KR")); 
+
+             String line;         
+
+             while ((line = br.readLine()) != null) { 
+
+                 System.out.println(line);                
+
+             }
+
+             br.close();
+
+       }
+
+}```
