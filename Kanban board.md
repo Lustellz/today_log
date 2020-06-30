@@ -196,4 +196,14 @@ In Progress: 기획서 제작, 포트폴리오 정비
 
 Tomorrow's Todo: 의료비 지출 영수증 첨부 및 청구, 기존 프로젝트 정비 완료, 구직활동 시작, 구직 일정 확인
 
-달성률: 
+달성률: 40%
+
+
+
+# 2020.06.30
+
+Today's Done: spring security 기본 사용, process 정리
+
+In Progress: 권한 별 기능 분리, 페이지 분리, DB 연결
+
+Todo: 생활 코딩 자료 읽기(Class부터), 양배추 삶아 먹기, 마늘 빻기, Servlet 처리 부분 Controller로 분리, 건강보험료 자동이체 신청
