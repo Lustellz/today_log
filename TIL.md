@@ -275,3 +275,37 @@ public class ConvertTester {
        }
 
 }```
+
+```
+
+
+
+# 2020.07.01
+
+oracle 리스너 설정 관련
+
+https://m.cafe.daum.net/nonsystem/I50P/9?q=D_M.JM.ytBUzQ0&
+
+우분투 환경 설정 관련
+
+https://m.blog.naver.com/mmidea/221812422815
+
+우분투 유저 계정 설정 관련
+
+http://www.gurubee.net/article/52138
+
+오라클 환경 설정 관련
+
+[https://panel.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-%EC%9C%A0%EC%A0%80-bashprofile-%EC%84%A4%EC%A0%95](https://panel.tistory.com/entry/오라클-유저-bashprofile-설정)
+
+db 설치(서버 설치 후 클라이언트 설치) -> 환경변수 지정(db가 해당 터미널에서 자리잡을 값 지정) -> listener.or 정보 설정 -> init.ora 정보로 start 할 기반 생성 -> db open 됨
+
+db instance의 startup 단계
+
+https://secmaster.tistory.com/15
+
+shutdown->nomount->mount->open(startup하는 과정). db instance 관리
+
+API
+
+https://tora-it-kingdom.tistory.com/17
