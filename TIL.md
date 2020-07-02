@@ -309,3 +309,11 @@ shutdown->nomount->mount->open(startup하는 과정). db instance 관리
 API
 
 https://tora-it-kingdom.tistory.com/17
+
+# 2020.07.02
+
+spring boot에 톰캣이 내장되어 있지만 mvc를 활성화하기 위해서는 embed된 컨테이너를 디펜던시에 추가해야 한다.(솔직히 왜 그런지 모르겟슴...)
+
+spring boot 기본 구조 설정
+
+[https://eastglow.github.io/back-end/2019/05/08/Spring-Eclipse%EB%A1%9C-Spring-Boot-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.html](https://eastglow.github.io/back-end/2019/05/08/Spring-Eclipse로-Spring-Boot-시작하기.html)

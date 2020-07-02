@@ -208,8 +208,6 @@ In Progress: 권한 별 기능 분리, 페이지 분리, DB 연결
 
 Todo: 생활 코딩 자료 읽기(Class부터), 양배추 삶아 먹기, 마늘 빻기, Servlet 처리 부분 Controller로 분리, 건강보험료 자동이체 신청
 
-
-
 # 2020.07.01
 
 Done: 휴대폰 통신비 변경, 양배추&마늘 처리, 건강보험료 자동이체 신청&이메일 고지서 수령 신청
@@ -218,3 +216,10 @@ In Progress: Service & Controller 복사 및 변경, db 연결
 
 Todo: user role에 따른 기능 분리, 프로젝트 모듈화
 
+# 2020.07.02
+
+Done: db 연결
+
+In Progress: 기능 완성, Service & Controller 복사
+
+Todo:
