@@ -222,4 +222,12 @@ Done: db 연결
 
 In Progress: 기능 완성, Service & Controller 복사
 
-Todo:
+Todo: 
+
+# 2020.07.03
+
+Done: 
+
+In Progress: 
+
+Todo: 
