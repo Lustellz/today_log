@@ -226,8 +226,8 @@ Todo:
 
 # 2020.07.03
 
-Done: 
+Done: 과제
 
-In Progress: 
+In Progress: Spring boot 컨트롤러 작동
 
 Todo: 
