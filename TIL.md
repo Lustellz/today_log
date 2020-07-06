@@ -317,3 +317,10 @@ spring boot에 톰캣이 내장되어 있지만 mvc를 활성화하기 위해서
 spring boot 기본 구조 설정
 
 [https://eastglow.github.io/back-end/2019/05/08/Spring-Eclipse%EB%A1%9C-Spring-Boot-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.html](https://eastglow.github.io/back-end/2019/05/08/Spring-Eclipse로-Spring-Boot-시작하기.html)
+
+# 2020.07.04
+
+spring security에서 제공하는 User 객체는 기본적으로 db 접근시 id를 사용한다(long 타입). 우리가 입력하는 아이디는 username이다.
+
+`form action=/"login"`을 실행하면 securityFilterChain으로 정보를 전달한다(login-processing-url).
+

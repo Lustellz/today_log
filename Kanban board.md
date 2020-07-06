@@ -231,3 +231,11 @@ Done: 과제
 In Progress: Spring boot 컨트롤러 작동
 
 Todo: 
+
+# 2020.07.06
+
+Done: Spring boot 컨트롤러 작동
+
+In Progress: Spring Security authorities 구분 및 권한별 접근 제어
+
+Todo: db 테이블 만들기 및 driver 연결
