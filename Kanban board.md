@@ -239,3 +239,13 @@ Done: Spring boot 컨트롤러 작동
 In Progress: Spring Security authorities 구분 및 권한별 접근 제어
 
 Todo: db 테이블 만들기 및 driver 연결
+
+
+
+# 2020.07.14
+
+Done: BubbleSort 재귀로 표현, Spring boot 프로젝트 권한 분리(접근 제어)
+
+In Progress: 정확한 RequestMapping 처리(분리 필요), 수정 코드 원상 복구(UserInfo 형 변환 문제)
+
+Todo: 파일 업로드 Controller 작성, 원격접속 에러 확인
