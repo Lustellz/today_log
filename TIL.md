@@ -324,3 +324,14 @@ spring security에서 제공하는 User 객체는 기본적으로 db 접근시 i
 
 `form action=/"login"`을 실행하면 securityFilterChain으로 정보를 전달한다(login-processing-url).
 
+# 2020.07.20
+
+컴퓨터 좀 끄고 다니고... 세션 좀 종료하고 다니고... 제발... 아니면 이거라도 외우자.
+
+`ps aux | grep [process_name]`
+
+`sudo netstat -tnlp|grep [port_number]`
+
+리눅스에서 ftp 서버 사용하도록 허용
+
+https://blog.lael.be/post/8404
