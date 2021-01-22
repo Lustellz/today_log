@@ -275,3 +275,63 @@ public class ConvertTester {
        }
 
 }```
+
+```
+
+
+
+# 2020.07.01
+
+oracle 리스너 설정 관련
+
+https://m.cafe.daum.net/nonsystem/I50P/9?q=D_M.JM.ytBUzQ0&
+
+우분투 환경 설정 관련
+
+https://m.blog.naver.com/mmidea/221812422815
+
+우분투 유저 계정 설정 관련
+
+http://www.gurubee.net/article/52138
+
+오라클 환경 설정 관련
+
+[https://panel.tistory.com/entry/%EC%98%A4%EB%9D%BC%ED%81%B4-%EC%9C%A0%EC%A0%80-bashprofile-%EC%84%A4%EC%A0%95](https://panel.tistory.com/entry/오라클-유저-bashprofile-설정)
+
+db 설치(서버 설치 후 클라이언트 설치) -> 환경변수 지정(db가 해당 터미널에서 자리잡을 값 지정) -> listener.or 정보 설정 -> init.ora 정보로 start 할 기반 생성 -> db open 됨
+
+db instance의 startup 단계
+
+https://secmaster.tistory.com/15
+
+shutdown->nomount->mount->open(startup하는 과정). db instance 관리
+
+API
+
+https://tora-it-kingdom.tistory.com/17
+
+# 2020.07.02
+
+spring boot에 톰캣이 내장되어 있지만 mvc를 활성화하기 위해서는 embed된 컨테이너를 디펜던시에 추가해야 한다.(솔직히 왜 그런지 모르겟슴...)
+
+spring boot 기본 구조 설정
+
+[https://eastglow.github.io/back-end/2019/05/08/Spring-Eclipse%EB%A1%9C-Spring-Boot-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.html](https://eastglow.github.io/back-end/2019/05/08/Spring-Eclipse로-Spring-Boot-시작하기.html)
+
+# 2020.07.04
+
+spring security에서 제공하는 User 객체는 기본적으로 db 접근시 id를 사용한다(long 타입). 우리가 입력하는 아이디는 username이다.
+
+`form action=/"login"`을 실행하면 securityFilterChain으로 정보를 전달한다(login-processing-url).
+
+# 2020.07.20
+
+컴퓨터 좀 끄고 다니고... 세션 좀 종료하고 다니고... 제발... 아니면 이거라도 외우자.
+
+`ps aux | grep [process_name]`
+
+`sudo netstat -tnlp|grep [port_number]`
+
+리눅스에서 ftp 서버 사용하도록 허용
+
+https://blog.lael.be/post/8404
