@@ -196,20 +196,6 @@ In Progress: 기획서 제작, 포트폴리오 정비
 
 Tomorrow's Todo: 의료비 지출 영수증 첨부 및 청구, 기존 프로젝트 정비 완료, 구직활동 시작, 구직 일정 확인
 
-<<<<<<< HEAD
-달성률: 90%
-
-
-
-## 2021.01.22 (Fri)
-
-Today's Done: hwp 파일 내부 객체 읽어오기 샘플 코드 실행, 테스트 완료
-
-In Progress: 원고, 플랫폼 코드 리뷰
-
-Tomorrow's Todo: 플라스크 프로젝트 코드 수정/확장 패키지 사용 결정, 플랫폼 프로젝트 DB 서버 설치 및 테스트, 개인 약속
-
-=======
 달성률: 40%
 
 
@@ -269,4 +255,29 @@ Done: Casting 오류 원인 파악
 In Progress: 
 
 Todo: 
->>>>>>> 5cc951380e15f803d0d28d757a4e83af2746c022
+
+
+
+## 2021.01.22 (Fri)
+
+Today's Done: hwp 파일 내부 객체 읽어오기 샘플 코드 실행, 테스트 완료
+
+In Progress: 원고, 플랫폼 코드 리뷰
+
+Tomorrow's Todo: 플라스크 프로젝트 코드 수정/확장 패키지 사용 결정(WineHQ 연구), 플랫폼 프로젝트 DB 서버 설치 및 테스트, 개인 약속
+
+## 2020.01.23 (Sat)
+
+Today's Done: 플라스크 프로젝트 linux 설치(WineHQ 활용 성공)
+
+In Progress: 원고, 플랫폼 코드 리뷰, 플랫폼 프로젝트 DB 서버 테스트
+
+Tomorrow's Todo: 플랫폼 코드 리뷰, Flask 프로젝트 확장
+
+## 2020.01.25 (Mon)
+
+Today's Done: 플랫폼 코드 리뷰, Process Diagram 수정, Entity 세부 사항 수정, Flask 프로젝트 외부 접근 허용(IP 수정)
+
+In Progress: profile에 따라 다른 properties 사용, Flask 프로젝트 수정 및 확장
+
+Tomorrow's Todo: Flask 프로젝트 수정 및 확장, profile에 따라 properties 사용 변경(Spring Boot 구동 원리 파악 필요)
