@@ -266,7 +266,7 @@ In Progress: 원고, 플랫폼 코드 리뷰
 
 Tomorrow's Todo: 플라스크 프로젝트 코드 수정/확장 패키지 사용 결정(WineHQ 연구), 플랫폼 프로젝트 DB 서버 설치 및 테스트, 개인 약속
 
-## 2020.01.23 (Sat)
+## 2021.01.23 (Sat)
 
 Today's Done: 플라스크 프로젝트 linux 설치(WineHQ 활용 성공)
 
@@ -274,10 +274,28 @@ In Progress: 원고, 플랫폼 코드 리뷰, 플랫폼 프로젝트 DB 서버 �
 
 Tomorrow's Todo: 플랫폼 코드 리뷰, Flask 프로젝트 확장
 
-## 2020.01.25 (Mon)
+## 2021.01.25 (Mon)
 
 Today's Done: 플랫폼 코드 리뷰, Process Diagram 수정, Entity 세부 사항 수정, Flask 프로젝트 외부 접근 허용(IP 수정)
 
 In Progress: profile에 따라 다른 properties 사용, Flask 프로젝트 수정 및 확장
 
 Tomorrow's Todo: Flask 프로젝트 수정 및 확장, profile에 따라 properties 사용 변경(Spring Boot 구동 원리 파악 필요)
+
+## 2021.01.26(Tue)
+
+Todays's Done: 플랫폼 코드 merge, 프로세스 정리
+
+In Progress: profile에 따라 다른 properties 사용, Flask 프로젝트 수정 및 확장(win32 활성화)
+
+Tomorrow's Todo: 우분투 내부 window 구조 embed
+
+## 2021.01.27(Wed)
+
+Today's Done: wine compile, 플랫폼 job apply process 재정립
+
+In Progress: window 내부에 .hwp 파일 인식시키기
+
+Tomorrow's Todo: registry key 등록(error reading registry key for installroot)
+
+## 2021.01.28(Thu)
