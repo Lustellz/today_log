@@ -299,3 +299,33 @@ In Progress: window 내부에 .hwp 파일 인식시키기
 Tomorrow's Todo: registry key 등록(error reading registry key for installroot)
 
 ## 2021.01.28(Thu)
+
+Today's Done: 프로젝트 평가 보고서 작성, platform 코드 merge
+
+In Progress: ubuntu window32에 한글과 컴퓨터 설치, 한글과컴퓨터 웹 기안기 소스 탐색, 프로젝트 빌드 설정 분기
+
+Tomorrow's Todo: 한글과컴퓨터 웹 기안기 소스 다운로드 요청, flask 프로젝트 수정(예외 처리, 기능 수정, 웹 기안기 embed 시도), platform 코드 점검 확인
+
+## 2021.01.29(Fri)
+
+Today's Done: platform 코드 merge, 한글과컴퓨터 웹 기안기 소스 다운로드 요청, 번역 모듈 기능 정리, 프로젝트 의존성 제거
+
+In Progress: 프로젝트 빌드 설정 분기, flask 프로젝트 수정(예외 처리, 기능 수정, 웹 기안기 embed 시도)
+
+Tomorrow's Todo: platform 코드 점검 확인, 코드 merge
+
+## 2021.02.01(Mon)
+
+Today's Done: 번역 모듈 R&R 지정, platform 코드 merge, 개발 방향 수정
+
+In Progress: 프로젝트 빌드 설정 분리, flask 프로젝트 수정
+
+Tomorrow's Todo: platform 코드 점검 확인, 코드 merge, flask 프로젝트 코드 수정
+
+## 2021.02.02(Tue)
+
+Today's Done: 프로젝트 빌드 설정 분리, platform 코드 merge, 프로젝트 의존성 제거 및 빌드 상태 원상 복귀(IDE 설정 수정)
+
+In Progress: flask 프로젝트 수정
+
+Tomorrow's Todo: platform 코드 점검 확인, 코드 merge, flask 프로젝트 코드 수정
